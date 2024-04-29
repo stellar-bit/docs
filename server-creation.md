@@ -36,7 +36,7 @@ Run by executing `cargo r --release`.
 
 ## Server logic
 
-TODO
+Look at the FFA server implementation at https://github.com/stellar-bit/ffa-server.
 
 
 
